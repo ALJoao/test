@@ -1,2 +1,2 @@
 # REPOSITORIO
-# curso pythonicos
+curso pythonicos
